@@ -1,82 +1,74 @@
 {
     "games": [
         {
-            "PC": [
-                {
-                    "id": "1",
-                    "title": "League of legends",
-                    "platform": "PC",
-                    "description": "Lorem ipsum dolor sit amet",
-                    "image": "https://www.hitsbook.com/media/shows/lol.jpg"
-                },
-                {
-                    "id": "2",
-                    "title": "DOTA 2",
-                    "platform": "PC",
-                    "description": "Lorem ipsum dolor sit amet",
-                    "image": "https://esports.as.com/2018/08/06/dota-2/rebelion-maquinas-IA-semiprofesional-Dota2_1160893901_97195_1440x600.jpg"
-                },
-                {
-                    "id": "3",
-                    "title": "Fortnite",
-                    "platform": "PC",
-                    "description": "Lorem ipsum dolor sit amet",
-                    "image": "https://img.blogs.es/bloglenovo/wp-content/uploads/2018/05/fortnite.jpg"
-                },
-                {
-                    "id": "4",
-                    "title": "APEX legends",
-                    "platform": "PC",
-                    "description": "Lorem ipsum dolor sit amet",
-                    "image": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/apex-featured-image-16x9.jpg.adapt.crop191x100.1200w.jpg"
-                },
-                {
-                    "id": "5",
-                    "title": "Counter strike: Global ofensive",
-                    "platform": "PC",
-                    "description": "Lorem ipsum dolor sit amet",
-                    "image": "https://mmogamerstore.com/wp-content/uploads/2018/04/ss_counter-stike-global-offensive_00.jpg"
-                },
-                {
-                    "id": "6",
-                    "title": "Minecraft",
-                    "platform": "PC",
-                    "description": "Lorem ipsum dolor sit amet",
-                    "image": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_Minecraft_image1600w.jpg"
-                },
-                {
-                    "id": "7",
-                    "title": "World of warcraft",
-                    "platform": "PC",
-                    "description": "Lorem ipsum dolor sit amet",
-                    "image": "https://http2.mlstatic.com/world-warcraft-juego-D_NQ_NP_732690-MCO27972843583_082018-F.jpg"
-                }
-            ]
+            "id": "1",
+            "title": "League of legends",
+            "platform": "PC",
+            "description": "Lorem ipsum dolor sit amet",
+            "image": "https://www.hitsbook.com/media/shows/lol.jpg"
         },
         {
-            "Console": [
-                {
-                    "id": "1",
-                    "title": "FIFA",
-                    "platform": "Console",
-                    "description": "Lorem ipsum dolor sit amet",
-                    "image": "https://as.com/meristation/imagenes/2019/06/13/noticias/1560407057_696857_1560407184_noticia_normal.jpg"
-                },
-                {
-                    "id": "2",
-                    "title": "Dark Souls",
-                    "platform": "Console",
-                    "description": "Lorem ipsum dolor sit amet",
-                    "image": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_DarkSoulsRemastered_image1600w.jpg"
-                },
-                {
-                    "id": "3",
-                    "title": "Bloodborne",
-                    "platform": "Console",
-                    "description": "Lorem ipsum dolor sit amet",
-                    "image": "https://wallpapercave.com/wp/wp1835122.jpg"
-                }
-            ]
+            "id": "2",
+            "title": "DOTA 2",
+            "platform": "PC",
+            "description": "Lorem ipsum dolor sit amet",
+            "image": "https://esports.as.com/2018/08/06/dota-2/rebelion-maquinas-IA-semiprofesional-Dota2_1160893901_97195_1440x600.jpg"
+        },
+        {
+            "id": "3",
+            "title": "Fortnite",
+            "platform": "PC",
+            "description": "Lorem ipsum dolor sit amet",
+            "image": "https://img.blogs.es/bloglenovo/wp-content/uploads/2018/05/fortnite.jpg"
+        },
+        {
+            "id": "4",
+            "title": "FIFA",
+            "platform": "Console",
+            "description": "Lorem ipsum dolor sit amet",
+            "image": "https://as.com/meristation/imagenes/2019/06/13/noticias/1560407057_696857_1560407184_noticia_normal.jpg"
+        },
+        {
+            "id": "5",
+            "title": "Dark Souls",
+            "platform": "Console",
+            "description": "Lorem ipsum dolor sit amet",
+            "image": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_DarkSoulsRemastered_image1600w.jpg"
+        },
+        {
+            "id": "6",
+            "title": "APEX legends",
+            "platform": "PC",
+            "description": "Lorem ipsum dolor sit amet",
+            "image": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/apex-featured-image-16x9.jpg.adapt.crop191x100.1200w.jpg"
+        },
+        {
+            "id": "7",
+            "title": "Counter strike: Global ofensive",
+            "platform": "PC",
+            "description": "Lorem ipsum dolor sit amet",
+            "image": "https://mmogamerstore.com/wp-content/uploads/2018/04/ss_counter-stike-global-offensive_00.jpg"
+        },
+        {
+            "id": "8",
+            "title": "Minecraft",
+            "platform": "PC",
+            "description": "Lorem ipsum dolor sit amet",
+            "image": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_Minecraft_image1600w.jpg"
+        },
+        {
+            "id": "9",
+            "title": "World of warcraft",
+            "platform": "PC",
+            "description": "Lorem ipsum dolor sit amet",
+            "image": "https://http2.mlstatic.com/world-warcraft-juego-D_NQ_NP_732690-MCO27972843583_082018-F.jpg"
+        },
+        {
+            "id": "10",
+            "title": "Bloodborne",
+            "platform": "PC",
+            "description": "Lorem ipsum dolor sit amet",
+            "image": "https://wallpapercave.com/wp/wp1835122.jpg"
         }
     ]
 }
