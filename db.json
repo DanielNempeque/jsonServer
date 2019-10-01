@@ -51,7 +51,9 @@
                     "description": "Lorem ipsum dolor sit amet",
                     "image": "https://http2.mlstatic.com/world-warcraft-juego-D_NQ_NP_732690-MCO27972843583_082018-F.jpg"
                 }
-            ],
+            ]
+        },
+        {
             "Console": [
                 {
                     "id": "1",
